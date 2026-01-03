@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "暇潰し、だれかの命",
+  "base_artist": "卯花ロク",
+  "createdAt": "2026-01-03T17:33:50.672940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暇潰し、だれかの命",
+      "artist": "卯花ロク",
+      "has_synced": true,
+      "path": "select/01_暇潰し、だれかの命_卯花ロク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暇潰し、だれかの命",
+      "artist": "卯花ロク",
+      "has_synced": false,
+      "path": "select/pl_01_暇潰し、だれかの命_卯花ロク.txt"
+    }
+  ]
+}
